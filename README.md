@@ -40,11 +40,3 @@ Le bot crée automatiquement `moderator_notes.db` pour stocker les notes.
 ## Sécurité & remarques
 - Assurez-vous d'entrer les bons IDs (role, category, logs). 
 - Le script empêche la création de plusieurs salons pour le même utilisateur et valide les notes (0–10).
-
-## Améliorations possibles
-- Passage en cogs / architecture modulaire
-- Fichier `.env` pour la configuration
-- Dashboard web pour statistiques
-
----
-Faite avec Copilot CLI runtime en VS Code.
