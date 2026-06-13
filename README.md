@@ -1,6 +1,6 @@
 # 🌲 Camping RP [FR] — Bot Discord
 
-Bot Discord complet pour le serveur **Camping RP [FR]**, incluant les commandes d'animation, de gestion du staff, et un système d'évaluation des modérateurs avec base de données SQLite.
+Bot Discord complet pour le serveur **Camping RP [FR]**
 
 ---
 
@@ -23,7 +23,7 @@ npm install discord.js better-sqlite3
 # 3. Configurer le script (voir section Configuration)
 
 # 4. Lancer le bot
-node bot_camping_with_notes.js
+node bot.js
 ```
 
 ---
